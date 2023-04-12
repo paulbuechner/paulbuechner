@@ -1,8 +1,8 @@
 <samp>
   
-## Hi 👋, I'm Paul 
-
-I'm a passionate developer & engineering student from Germany who is a web, data science, and open-source enthusiast interested in web development and computer vision.
+## Hi 👋, I'm Paul
+  
+As an enthusiastic developer and engineering student hailing from Germany, I have a fervent interest in web, data science, and open-source, particularly in the fields of web development, CAD, and computer vision.
 
 <!-- 👨‍💻 You can read more about my projects at -->
 
