@@ -2,7 +2,7 @@
   
 ## Hi 👋, I'm Paul
   
-As an enthusiastic mechanical engineer and developer from Germany, I have a fervent interest in CAD software, data science, and web development. Alongside I'm maintaining a collection of World of Warcraft addons.
+As a dedicated Mechanical Engineer and Developer based in Germany, I possess a deep passion for CAD software, data science, and web development. Additionally, I manage and maintain a collection of World of Warcraft addons.
 
 <!-- 👨‍💻 You can read more about my projects at -->
 
